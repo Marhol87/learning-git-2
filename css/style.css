@@ -1,0 +1,23 @@
+$color-main: #2d3436;
+
+$font-text: 'Montserrat', sans-serif;
+$font-header: 'Raleway', sans-serif;
+/* Poem */
+body {
+    margin: 0;
+    text-align: center;
+    background: #fff;
+    color: #050002;
+    font-size: 16px;
+    line-height: 1.7;
+    font-family: $font-text;
+}
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.section {
+    padding-top: 108px;
+    padding-bottom: 108px;
+}
